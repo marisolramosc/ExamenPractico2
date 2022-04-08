@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exam</string>
+
+    <string name="peliculas">PELICULAS</string>
+    <string name="Pelicula">Nombre pelicula</string>
+    <string name="anio">Año</string>
+    <string name="director">Director</string>
+    <string name="lenguajes">Lenguajes</string>
+</resources>
